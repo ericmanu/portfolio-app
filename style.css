@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #F0F0F6;
+}
+
+.head {
+    width: 80rem;
+    height: 41.867rem;
+    background-color: white;
+    margin: 0 auto;
+}
